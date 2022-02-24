@@ -1,3 +1,6 @@
+Quasar Kullanarak ,kendimi denemek için ve yeni keşfettiğim için küçük bir todo list geliştirmesi
+
+
 # Quasar App (todo-list)
 
 A Quasar Framework app
